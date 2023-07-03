@@ -1,0 +1,20 @@
+h1
+{
+text-align: center;
+Font-size: 65PX;
+font-Family: monospace;
+font-weight: bolder;
+color: rgb(13, 13, 113);
+Text-decoration-color:purple;
+
+}
+
+h2
+{
+    text-align: center;
+    Font-size: 40PX;
+    font-Family: monospace;
+    font-weight: lighter;
+    color: white;
+    Text-decoration: italic;
+}
